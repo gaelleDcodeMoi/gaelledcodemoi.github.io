@@ -2,29 +2,28 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Neumorphism
+title: Dcode Moi
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/neumorphism"
+baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Neumorphism
-# typing_text: This will be typed before 'scroll down for more'.
+username: Gaëlle
+typing_text: Welcome to this website, you'll discover here all my projects
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: Let's discover them together
 # email: Your E-Mail address for the email button.
-email: email@example.com
+email: gaelledcodemoi@gmail.com
 # For every social button you want to display, set your username or userid
-# If you do not use one of the following websites, then leave it empty
-# > twitter_username:
-github_username: longpdo
-codepen_username: exampleUser
-dev_username: exampleUser
+# If you do not use one of the following websites, then leave it empty 
+github_username: gaelleDcodeMoi
+codepen_username: 
+dev_username: 
 linkedin_username: exampleUser
-twitter_username: exampleUser
+twitter_username: gaellecollas
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -86,7 +85,7 @@ contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, se
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
+repository: gaelledcodemoi/gaelledcodemoi.github.io
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
